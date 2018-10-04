@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="locale"
+    android:orientation="vertical"
+    android:background="@color/gremnnaf"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="47dp"
+        android:textColor="#ff000000"
+        android:textColorHighlight="@color/dark_blue"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="47dp" />
+
+    <TextView
+        android:id="@+id/snippet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="34dp"
+        android:textColor="#ff7f7f7f"
+        android:layout_alignParentLeft="true"
+
+        />
+
+    <ImageView
+        android:id="@+id/images"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/snippet"
+        android:layout_marginStart="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="13dp"
+        android:background="@drawable/toilet"
+        />
+
+    <RatingBar
+        android:id="@+id/ratingBar3"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="45dp"
+        android:theme="@style/RatingBar"
+
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>

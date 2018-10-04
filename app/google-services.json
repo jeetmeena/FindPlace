@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393060295719",
+    "firebase_url": "https://find-place-40b5c.firebaseio.com",
+    "project_id": "find-place-40b5c",
+    "storage_bucket": "find-place-40b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393060295719:android:e82ca85a0e0aa044",
+        "android_client_info": {
+          "package_name": "com.example.jeetmeena.findplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393060295719-o0v9s67jg7lkkjaldvvm412515d6fg7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeetmeena.findplace",
+            "certificate_hash": "22ef47c829ec6a8c4750243682b07d26d887372e"
+          }
+        },
+        {
+          "client_id": "393060295719-vd429tmei4d66qvabbuet4knfln5jt4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxfbJ0dQaHJkBLDnnkOEuBnU1nHOrCQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393060295719-vd429tmei4d66qvabbuet4knfln5jt4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

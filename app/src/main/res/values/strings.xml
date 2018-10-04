@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Find Place</string>
+    <string name="google_maps_key">AIzaSyAHxfbJ0dQaHJkBLDnnkOEuBnU1nHOrCQM</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Toilet Finder</string>
+
+    <string name="navigation_drawer_open">Hello blank fragment</string>
+
+    <string name="navigation_drawer_close">Hello blank fragment</string>
+    <string name="commensd">sdfdafdsaafdsfdsfsdfdsfsdfdsfsdfsdffsdfwefwfefsdfsddfdsfdssfdsfdfdfdfd</string>
+    <array name="placeTypes">
+        <item>PlaceType</item>
+        <item>Address</item>
+        <item>Cities</item>
+        <item>Establishment</item>
+        <item>Geocode</item>
+        <item>Regions</item>
+        <item>All</item>
+    </array>
+    <array name="placeTypesValue">
+        <item>0</item>
+        <item>2</item>
+        <item>5</item>
+        <item>34</item>
+        <item>1007</item>
+        <item>4</item>
+        <item>0</item>
+    </array>
+</resources>
